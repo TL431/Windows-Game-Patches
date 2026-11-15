@@ -324,6 +324,24 @@ WINEDLLOVERRIDES="dsound=n,b" %command% -nobattleye
 </details>
 <details><summary>
  
+### LEGO Voyagers
+</summary>
+
+  - Disable TAA
+
+#### Installation
+
+- **Note:** ***Please make sure any executable hex edits are removed/reverted first***.
+  - Extract the following contents of the release zip into the game root folder.
+  - Rename `dinput8.dll` from folder `!ASI_Loader_x64` to `d3d11.dll` and copy to game folder.
+  - `LegoVoyagers.NoTAA.asi`
+  - `d3d11.ini`
+
+#### Last tested game version: 1.1.0 (18 November 2025)
+</details>
+
+<details><summary>
+
 ### Marvel's Guardians of the Galaxy
 </summary>
 
